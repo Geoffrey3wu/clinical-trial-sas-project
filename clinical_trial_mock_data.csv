@@ -1,0 +1,101 @@
+subject_id,age,sex,treatment_group,baseline_weight,ae_type,ae_severity
+S001,58,Female,Placebo,72.9,Headache,Moderate
+S002,25,Male,Placebo,99.9,None,
+S003,19,Female,Placebo,99.8,Nausea,Mild
+S004,65,Male,Placebo,53.7,Fatigue,
+S005,35,Male,Placebo,60.7,None,
+S006,33,Male,Placebo,63.3,Headache,Moderate
+S007,32,Male,Drug A,96.7,Headache,
+S008,26,Female,Placebo,94.0,Fatigue,
+S009,65,Female,Placebo,94.0,Dizziness,
+S010,24,Female,Drug A,68.5,None,
+S011,61,Male,Drug A,57.9,None,
+S012,65,Female,Placebo,91.7,None,
+S013,75,Male,Placebo,85.2,Dizziness,Mild
+S014,52,Male,Drug A,80.6,Fatigue,
+S015,23,Male,Placebo,99.4,Fatigue,Moderate
+S016,55,Female,Drug A,82.7,Headache,Moderate
+S017,45,Female,Drug A,50.4,Dizziness,
+S018,20,Female,Placebo,90.9,Fatigue,Mild
+S019,19,Male,Placebo,65.0,Nausea,Moderate
+S020,23,Male,Placebo,83.2,None,
+S021,31,Female,Drug A,96.9,Headache,
+S022,32,Male,Drug A,56.7,None,
+S023,50,Female,Drug A,55.8,Dizziness,
+S024,56,Female,Drug A,55.4,Headache,Severe
+S025,19,Female,Drug A,77.7,Fatigue,
+S026,53,Male,Placebo,63.6,Fatigue,
+S027,30,Female,Placebo,80.2,None,
+S028,63,Male,Placebo,85.9,None,
+S029,59,Male,Drug A,60.2,None,
+S030,62,Female,Drug A,81.7,None,
+S031,52,Female,Placebo,63.2,None,
+S032,44,Female,Placebo,74.4,Nausea,Moderate
+S033,32,Female,Placebo,95.3,None,
+S034,46,Male,Placebo,92.3,Dizziness,
+S035,55,Male,Drug A,54.6,Headache,Moderate
+S036,35,Female,Placebo,71.2,None,
+S037,69,Male,Drug A,63.8,None,
+S038,73,Male,Placebo,50.2,Fatigue,Mild
+S039,18,Male,Drug A,88.6,None,
+S040,66,Male,Drug A,81.9,None,
+S041,69,Male,Placebo,63.1,Headache,Severe
+S042,28,Female,Placebo,87.1,None,
+S043,62,Male,Drug A,77.6,None,
+S044,45,Female,Placebo,71.4,Fatigue,Mild
+S045,39,Female,Placebo,50.5,None,
+S046,35,Female,Placebo,53.8,None,
+S047,27,Female,Placebo,94.2,Dizziness,Moderate
+S048,31,Male,Placebo,95.2,None,
+S049,79,Male,Placebo,77.3,Dizziness,Moderate
+S050,66,Female,Drug A,91.7,None,
+S051,39,Female,Drug A,79.1,None,
+S052,24,Male,Drug A,57.4,Fatigue,
+S053,23,Female,Placebo,56.4,Nausea,
+S054,42,Female,Drug A,65.4,Nausea,Severe
+S055,24,Male,Placebo,94.9,Dizziness,
+S056,40,Female,Placebo,89.8,None,
+S057,72,Male,Drug A,93.0,Dizziness,Mild
+S058,40,Female,Placebo,94.9,None,
+S059,56,Male,Drug A,60.5,None,
+S060,34,Male,Drug A,62.5,Nausea,
+S061,69,Female,Drug A,55.1,Fatigue,Mild
+S062,20,Male,Drug A,89.0,Fatigue,
+S063,64,Male,Drug A,94.2,None,
+S064,47,Female,Drug A,70.3,Dizziness,Mild
+S065,52,Male,Placebo,81.0,Fatigue,Severe
+S066,25,Male,Placebo,57.7,Headache,Severe
+S067,80,Female,Drug A,96.5,None,
+S068,77,Female,Placebo,93.2,None,
+S069,42,Male,Placebo,98.8,Nausea,Moderate
+S070,23,Male,Placebo,90.5,Dizziness,
+S071,53,Female,Drug A,94.1,Fatigue,Moderate
+S072,36,Female,Placebo,51.2,Fatigue,Severe
+S073,71,Male,Placebo,86.8,None,
+S074,58,Male,Drug A,66.6,None,
+S075,57,Male,Placebo,96.5,Dizziness,Mild
+S076,74,Male,Placebo,90.1,Dizziness,
+S077,73,Male,Placebo,93.2,Dizziness,Severe
+S078,41,Female,Placebo,90.5,None,
+S079,54,Male,Placebo,63.3,Nausea,Moderate
+S080,30,Male,Placebo,89.4,Fatigue,
+S081,63,Male,Placebo,55.4,Dizziness,Moderate
+S082,22,Female,Drug A,93.6,None,
+S083,20,Male,Placebo,92.9,Nausea,
+S084,60,Female,Placebo,61.1,None,
+S085,32,Female,Placebo,90.8,Headache,Mild
+S086,67,Male,Placebo,73.0,None,
+S087,36,Male,Drug A,65.3,Fatigue,Moderate
+S088,23,Female,Drug A,89.8,None,
+S089,72,Female,Drug A,61.4,None,
+S090,32,Female,Placebo,51.2,Fatigue,Mild
+S091,73,Female,Drug A,59.7,None,
+S092,24,Female,Placebo,66.4,Headache,
+S093,42,Male,Drug A,93.2,Nausea,Severe
+S094,35,Male,Drug A,98.3,None,
+S095,47,Male,Placebo,64.0,None,
+S096,58,Male,Drug A,82.1,Nausea,Severe
+S097,71,Female,Drug A,70.0,Nausea,Severe
+S098,41,Male,Drug A,99.1,Nausea,
+S099,28,Male,Placebo,76.8,Headache,Severe
+S100,41,Male,Placebo,97.0,Headache,

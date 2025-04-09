@@ -1,0 +1,101 @@
+age_group,subject_id,age,sex,treatment_group,baseline_weight,ae_type,ae_severity
+50-69,S001,58,Female,Placebo,72.9,Headache,Moderate
+<30,S002,25,Male,Placebo,99.9,,
+<30,S003,19,Female,Placebo,99.8,Nausea,Mild
+50-69,S004,65,Male,Placebo,53.7,Fatigue,
+30-49,S005,35,Male,Placebo,60.7,,
+30-49,S006,33,Male,Placebo,63.3,Headache,Moderate
+30-49,S007,32,Male,Drug A,96.7,Headache,
+<30,S008,26,Female,Placebo,94,Fatigue,
+50-69,S009,65,Female,Placebo,94,Dizziness,
+<30,S010,24,Female,Drug A,68.5,,
+50-69,S011,61,Male,Drug A,57.9,,
+50-69,S012,65,Female,Placebo,91.7,,
+70+,S013,75,Male,Placebo,85.2,Dizziness,Mild
+50-69,S014,52,Male,Drug A,80.6,Fatigue,
+<30,S015,23,Male,Placebo,99.4,Fatigue,Moderate
+50-69,S016,55,Female,Drug A,82.7,Headache,Moderate
+30-49,S017,45,Female,Drug A,50.4,Dizziness,
+<30,S018,20,Female,Placebo,90.9,Fatigue,Mild
+<30,S019,19,Male,Placebo,65,Nausea,Moderate
+<30,S020,23,Male,Placebo,83.2,,
+30-49,S021,31,Female,Drug A,96.9,Headache,
+30-49,S022,32,Male,Drug A,56.7,,
+50-69,S023,50,Female,Drug A,55.8,Dizziness,
+50-69,S024,56,Female,Drug A,55.4,Headache,Severe
+<30,S025,19,Female,Drug A,77.7,Fatigue,
+50-69,S026,53,Male,Placebo,63.6,Fatigue,
+30-49,S027,30,Female,Placebo,80.2,,
+50-69,S028,63,Male,Placebo,85.9,,
+50-69,S029,59,Male,Drug A,60.2,,
+50-69,S030,62,Female,Drug A,81.7,,
+50-69,S031,52,Female,Placebo,63.2,,
+30-49,S032,44,Female,Placebo,74.4,Nausea,Moderate
+30-49,S033,32,Female,Placebo,95.3,,
+30-49,S034,46,Male,Placebo,92.3,Dizziness,
+50-69,S035,55,Male,Drug A,54.6,Headache,Moderate
+30-49,S036,35,Female,Placebo,71.2,,
+50-69,S037,69,Male,Drug A,63.8,,
+70+,S038,73,Male,Placebo,50.2,Fatigue,Mild
+<30,S039,18,Male,Drug A,88.6,,
+50-69,S040,66,Male,Drug A,81.9,,
+50-69,S041,69,Male,Placebo,63.1,Headache,Severe
+<30,S042,28,Female,Placebo,87.1,,
+50-69,S043,62,Male,Drug A,77.6,,
+30-49,S044,45,Female,Placebo,71.4,Fatigue,Mild
+30-49,S045,39,Female,Placebo,50.5,,
+30-49,S046,35,Female,Placebo,53.8,,
+<30,S047,27,Female,Placebo,94.2,Dizziness,Moderate
+30-49,S048,31,Male,Placebo,95.2,,
+70+,S049,79,Male,Placebo,77.3,Dizziness,Moderate
+50-69,S050,66,Female,Drug A,91.7,,
+30-49,S051,39,Female,Drug A,79.1,,
+<30,S052,24,Male,Drug A,57.4,Fatigue,
+<30,S053,23,Female,Placebo,56.4,Nausea,
+30-49,S054,42,Female,Drug A,65.4,Nausea,Severe
+<30,S055,24,Male,Placebo,94.9,Dizziness,
+30-49,S056,40,Female,Placebo,89.8,,
+70+,S057,72,Male,Drug A,93,Dizziness,Mild
+30-49,S058,40,Female,Placebo,94.9,,
+50-69,S059,56,Male,Drug A,60.5,,
+30-49,S060,34,Male,Drug A,62.5,Nausea,
+50-69,S061,69,Female,Drug A,55.1,Fatigue,Mild
+<30,S062,20,Male,Drug A,89,Fatigue,
+50-69,S063,64,Male,Drug A,94.2,,
+30-49,S064,47,Female,Drug A,70.3,Dizziness,Mild
+50-69,S065,52,Male,Placebo,81,Fatigue,Severe
+<30,S066,25,Male,Placebo,57.7,Headache,Severe
+70+,S067,80,Female,Drug A,96.5,,
+70+,S068,77,Female,Placebo,93.2,,
+30-49,S069,42,Male,Placebo,98.8,Nausea,Moderate
+<30,S070,23,Male,Placebo,90.5,Dizziness,
+50-69,S071,53,Female,Drug A,94.1,Fatigue,Moderate
+30-49,S072,36,Female,Placebo,51.2,Fatigue,Severe
+70+,S073,71,Male,Placebo,86.8,,
+50-69,S074,58,Male,Drug A,66.6,,
+50-69,S075,57,Male,Placebo,96.5,Dizziness,Mild
+70+,S076,74,Male,Placebo,90.1,Dizziness,
+70+,S077,73,Male,Placebo,93.2,Dizziness,Severe
+30-49,S078,41,Female,Placebo,90.5,,
+50-69,S079,54,Male,Placebo,63.3,Nausea,Moderate
+30-49,S080,30,Male,Placebo,89.4,Fatigue,
+50-69,S081,63,Male,Placebo,55.4,Dizziness,Moderate
+<30,S082,22,Female,Drug A,93.6,,
+<30,S083,20,Male,Placebo,92.9,Nausea,
+50-69,S084,60,Female,Placebo,61.1,,
+30-49,S085,32,Female,Placebo,90.8,Headache,Mild
+50-69,S086,67,Male,Placebo,73,,
+30-49,S087,36,Male,Drug A,65.3,Fatigue,Moderate
+<30,S088,23,Female,Drug A,89.8,,
+70+,S089,72,Female,Drug A,61.4,,
+30-49,S090,32,Female,Placebo,51.2,Fatigue,Mild
+70+,S091,73,Female,Drug A,59.7,,
+<30,S092,24,Female,Placebo,66.4,Headache,
+30-49,S093,42,Male,Drug A,93.2,Nausea,Severe
+30-49,S094,35,Male,Drug A,98.3,,
+30-49,S095,47,Male,Placebo,64,,
+50-69,S096,58,Male,Drug A,82.1,Nausea,Severe
+70+,S097,71,Female,Drug A,70,Nausea,Severe
+30-49,S098,41,Male,Drug A,99.1,Nausea,
+<30,S099,28,Male,Placebo,76.8,Headache,Severe
+30-49,S100,41,Male,Placebo,97,Headache,
