@@ -3,6 +3,21 @@ SAS-based clinical trial data cleaning and summary analysis
 
 This project performs a simplified clinical trial data analysis using SAS. It demonstrates data cleaning, demographic summarization, and adverse event reporting using a sample dataset.
 
+## 📂 Project Files
+
+- `clinical_trial_mock_data.csv` - Simulated clinical trial dataset
+- `clinical_summary_project.sas` - Complete SAS program (data import, cleaning, analysis)
+- `clinical_cleaned.csv` - Exported cleaned dataset (optional)
+- `Clinical Trail Data Analysis.png` - Visual representation of the project
+
+## 🧪 Key Features
+
+- Data cleaning and missing value handling
+- Age group classification
+- Summary statistics (age, gender, lab values)
+- Frequency analysis of adverse events
+- Clean, modular SAS code structure
+  
 ## 🧪 Project Contents
 
 - **Data Source**: Mock clinical data (`clinical_trial_data.csv`)
